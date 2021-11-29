@@ -4,6 +4,8 @@ anos = int(input('\ncurso? '))
 teste = int(input('\teste? '))
 teste2 = int(input('\teste2? '))
 
+teste5 'dsda'
+
 
 parcelas = casa / (anos * 12) 
 porcentagem = (salario * 30) / 100
