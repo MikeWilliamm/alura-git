@@ -1,4 +1,4 @@
-casa = float(input('\nQual valor da house? '))
+casa = float(input('\nTitulo? '))
 salario = float(input('\nQual valor do salario? '))
 anos = int(input('\nEm Quantos anos vai pagar? '))
 
