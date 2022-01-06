@@ -3,13 +3,13 @@ salario = float(input('\nQual valor do salario? '))
 anos = int(input('\ncurso? '))
 teste = int(input('\teste? '))
 teste2 = int(input('\teste2? '))
-<<<<<<< HEAD
+
 teste4 = 'aaaaa'  
-=======
 
-teste5 'dsda'
 
->>>>>>> b6c7ea162a5543fca8bac5a51d68592aca24f1c7
+teste5 = 'dsda'
+
+
 
 parcelas = casa / (anos * 12) 
 porcentagem = (salario * 30) / 100
